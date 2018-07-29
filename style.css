@@ -2,7 +2,7 @@ body {
 	/*font-family: Helvetica, Helvetica Neue, Arial;*/
 	/*font-weight: 300;*/
 	font-family: 'Arsenal', "HelveticaNeue-Light", "Helvetica Neue Light", 'Helvetica Neue', 'Source Sans Pro', 'Open Sans',Helvetica,Arial,sans-serif;
-	font-size: 12pt;
+	font-size: 14pt;
 	color: #333333;
 }
 
@@ -180,12 +180,17 @@ td {
 .paper li {
 	margin-left: -20px;
 	padding-left: 0px;
-	margin-top: 10px;
+	margin-top: 20px;
 	clear: both;
+	color: #666666;
 }
 
 .paper ul {
     margin-top: 0px;
+}
+
+.paper li b {
+	color: black;
 }
 
 .misc ul {
@@ -199,7 +204,7 @@ td {
 }
 
 .misc0 {
-	margin-top: 10px;
+	margin-top: 20px;
 }
 
 p {
@@ -208,7 +213,8 @@ p {
 
 .papertitle {
 	//color: #ff6600;
-    color: #0066ff;
+    //color: #0066ff;
+    color: black;
 }
 
 .papertitle:link, .papertitle:visited {
