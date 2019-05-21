@@ -213,9 +213,10 @@ p {
 
 .papertitle {
 	//color: #ff6600;
-    //color: #0066ff;
-    color: black;
+    color: #0066ff;
+    //color: black;
 }
+
 
 .papertitle:link, .papertitle:visited {
 	text-decoration: none;
