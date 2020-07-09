@@ -1,7 +1,8 @@
 body {
 	/*font-family: Helvetica, Helvetica Neue, Arial;*/
 	/*font-weight: 300;*/
-	font-family: 'Arsenal', "HelveticaNeue-Light", "Helvetica Neue Light", 'Helvetica Neue', 'Source Sans Pro', 'Open Sans',Helvetica,Arial,sans-serif;
+    font-family: "Alegreya";
+	/*font-family: "Oswald", "Arsenal", "HelveticaNeue-Light", "Helvetica Neue Light", 'Helvetica Neue', 'Source Sans Pro', 'Open Sans',Helvetica,Arial,sans-serif;*/
 	font-size: 12pt;
 	color: #333333;
 }
