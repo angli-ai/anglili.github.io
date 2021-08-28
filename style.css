@@ -11,8 +11,8 @@ body {
 	width: expression( document.body.clientWidth > 900 ? "900px": "auto" );
 	margin-left: auto;
 	margin-right: auto;
-	border-left: dashed 1px #0e51a7;
-	border-right: dashed 1px #0e51a7;
+	/*border-left: dashed 1px #0e51a7;
+	border-right: dashed 1px #0e51a7;*/
 	padding-left: 25px;
 	padding-right: 25px;
 }
