@@ -27,6 +27,7 @@ h3 {
 }
 
 .name {
+    padding-top: 15px;
     padding-bottom: 10px;
     font-weight: bold;
     font-size: 30px;
